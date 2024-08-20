@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.4571357d.css",
+    "main.js": "./static/js/main.43161b59.js",
+    "static/media/modetour_logo.png": "./static/media/modetour_logo.44ca419b572359f29364.png",
+    "index.html": "./index.html",
+    "main.4571357d.css.map": "./static/css/main.4571357d.css.map",
+    "main.43161b59.js.map": "./static/js/main.43161b59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4571357d.css",
+    "static/js/main.43161b59.js"
+  ]
+}
